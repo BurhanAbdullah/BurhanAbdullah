@@ -2,9 +2,9 @@
 
 # <font face="serif" color="#0078d4">⚡ Burhan U Din Abdullah, Ph.D.</font>
 
-**Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru**
+**Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru** [cite: 44, 45]
 
-<font face="serif"><i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font>
+<font face="serif"><i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font> [cite: 7, 9]
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
@@ -19,11 +19,12 @@
 ### <font face="serif">🏛️ Research Architecture & Career Flow</font>
 
 <font face="serif">
-My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy.
+My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy. [cite: 8, 14, 21]
 </font>
 
 ```mermaid
-pie title Domain Expertise & Focus
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'pieSectionTextSize': '0px' }}}%%
+pie title <font face="serif">Domain Expertise & Research Focus</font>
     "AI-Assisted Optimization" : 25
     "Techno-Economic Analysis" : 25
     "Grid Modernization" : 20
@@ -33,13 +34,13 @@ pie title Domain Expertise & Focus
 
 ---
 
-### <font face="serif">🛠️ Technological Ecosystem & Verified Mastery</font>
+### <font face="serif">🛠️ Technological Ecosystem & Mastery</font>
 
-<table align="center" style="width: 100%; text-align: center;">
-  <tr>
-    <th width="33%">⚡ <font face="serif">Power Engineering</font></th>
-    <th width="33%">🧠 <font face="serif">AI & Intelligence</font></th>
-    <th width="33%">📊 <font face="serif">Strategy & Policy</font></th>
+<table align="center" style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr style="border-bottom: 2px solid #0078d4;">
+    <th>⚡ <font face="serif">Power Engineering</font></th>
+    <th>🧠 <font face="serif">AI & Intelligence</font></th>
+    <th>📊 <font face="serif">Strategy & Policy</font></th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-PowerWorld-orange" /></td>
@@ -60,38 +61,30 @@ pie title Domain Expertise & Focus
 
 ---
 
-### <font face="serif">🚀 Project Portfolio & Open Source</font>
+### <font face="serif">🚀 Leading Research Repositories</font>
 
-* **[PowerMCP](https://github.com/Power-Agent/PowerMCP):** Architecting agent-driven modeling with **Harvard SEAS**.
-* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid):** High-assurance cryptographic grid communication.
-* **[PowerRAG](https://github.com/oceanbase/powerrag):** Multi-modal retrieval for industrial energy data.
+* **[PowerMCP](https://github.com/Power-Agent/PowerMCP)**: Architecting agent-driven modeling with **Harvard SEAS**. [cite: 52, 91]
+* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid)**: High-assurance cryptographic grid communication.
+* **[PowerRAG](https://github.com/oceanbase/powerrag)**: Multi-modal retrieval for industrial energy data. [cite: 14, 91]
 
 ---
 
 ### <font face="serif">📜 Prestigious Certifications</font>
 
-<table align="center" style="width: 100%;">
+<table align="center" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td><b>IIT Bombay</b>: Internet of Things & Machine Learning</td>
-    <td><b>IIM Ahmedabad</b>: Strategy & Game Theory</td>
+    <td style="padding: 10px;"><b>IIT Bombay</b>: Internet of Things & Machine Learning [cite: 32]</td>
+    <td style="padding: 10px;"><b>IIM Ahmedabad</b>: Strategy & Game Theory [cite: 33]</td>
   </tr>
   <tr>
-    <td><b>McKinsey & Co.</b>: Forward Research Program</td>
-    <td><b>Johns Hopkins</b>: Big Data & AI Project Management</td>
+    <td style="padding: 10px;"><b>McKinsey & Co.</b>: Forward Research Program</td>
+    <td style="padding: 10px;"><b>Johns Hopkins</b>: Big Data & AI Project Management [cite: 37]</td>
   </tr>
   <tr>
-    <td><b>Rice University</b>: Risk Management & Finance</td>
-    <td><b>University at Buffalo</b>: Electric Power Systems</td>
+    <td style="padding: 10px;"><b>Rice University</b>: Risk Management & Finance [cite: 38, 39]</td>
+    <td style="padding: 10px;"><b>University at Buffalo</b>: Electric Power Systems [cite: 35]</td>
   </tr>
 </table>
-
----
-
-### <font face="serif">📊 Technical Impact & Continuity</font>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
-</p>
 
 ---
 
