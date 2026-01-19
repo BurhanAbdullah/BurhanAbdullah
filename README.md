@@ -24,11 +24,10 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </font>
 </p>
 
-<h4 align="center"><font face="serif">Expertise Velocity Index</font></h4>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/master/Charts/PieChart.gif" width="200" />
+<h4 align="center"><font face="serif">Domain Expertise Velocity</font></h4>
+<img src="https://raw.githubusercontent.com/HussainArif/HussainArif/master/assets/rotating_gear.gif" width="120" />
 <br>
-<font face="serif" size="2"><i>Dynamic Domain Weighting: AI (25%) | Techno-Econ (25%) | Grid (20%) | Infrastructure (15%) | ML (15%)</i></font>
+<font face="serif" size="3"><i>AI Optimization | Techno-Economics | Grid Stability | Infrastructure</i></font>
 
 ---
 
@@ -54,10 +53,18 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 
 ---
 
-### <font face="serif" size="5">📊 Live Impact Metrics</font>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" />
-</p>
+### <font face="serif" size="5">📜 Prestigious Academic Certifications</font>
+
+<table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-spacing: 15px;">
+  <tr>
+    <td align="center"><b>IIT Bombay</b><br>Internet of Things & ML</td>
+    <td align="center"><b>IIM Ahmedabad</b><br>Strategy & Game Theory</td>
+  </tr>
+  <tr>
+    <td align="center"><b>McKinsey & Co.</b><br>Forward Research Program</td>
+    <td align="center"><b>Johns Hopkins University</b><br>Big Data & AI Management</td>
+  </tr>
+</table>
 
 ---
 
