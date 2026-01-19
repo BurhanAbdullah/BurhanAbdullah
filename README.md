@@ -1,65 +1,61 @@
-<h1 align="center"><font face="serif">⚡ Burhan U Din Abdullah, Ph.D.</font></h1>
-
-<p align="center">
-  <font face="serif"><b>Postdoctoral Researcher | Indian Institute of Science (IISc), Bengaluru</b><br>
-  <i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Harvard_SEAS-Collaborator-A51C30?style=for-the-badge&logo=harvard" />
-  <img src="https://img.shields.io/github/stars/BurhanAbdullah?style=for-the-badge&color=ffd700" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  
+  # <font face="serif" color="#0078d4">⚡ Burhan U Din Abdullah, Ph.D.</font>
+  
+  **Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru** [cite: 44, 45, 46]
+  
+  *Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.* [cite: 7, 9]
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Harvard_SEAS-Open_Source_Contributor-A51C30?style=for-the-badge&logo=harvard" />
+    <img src="https://img.shields.io/badge/Ph.D.-EE_2025-gold?style=for-the-badge" />
+  </p>
+</div>
 
 ---
 
 ### <font face="serif">🏛️ Research Architecture: The Intelligent Grid</font>
 <font face="serif">
-My research bridges the intersection of **Artificial Intelligence**, **Power System Stability**, and **Human-Centered Policy**[cite: 7]. I focus on the techno-economic feasibility of renewable-rich, low-inertia infrastructure to support sustainable global energy transitions[cite: 8, 9].
+My work integrates **Multimodal Machine Learning** with **Low-Inertia Power Systems** to create evidence-based decision support for global energy policy. [cite: 7, 8, 14, 21]
 </font>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'primaryColor': '#0078d4'}}}%%
-gantt
-    title Research Expertise & Skill Depth
-    dateFormat  X
-    axisFormat %
-    section Core Research
-    AI-Assisted Optimization (Ph.D.)   : 0, 95
-    Techno-Economic Analysis (Postdoc) : 0, 90
-    Grid Modernization & Stability     : 0, 85
-    Multimodal Machine Learning        : 0, 80
-    Evidence-Based Policy Planning     : 0, 75
+stateDiagram-v2
+    direction LR
+    state "PhD: AI Optimization" as S1
+    state "Postdoc: Techno-Economics" as S2
+    state "Harvard: Agentic Systems" as S3
+    
+    [*] --> S1: Solar PV Focus 
+    S1 --> S2: Blue Line Infrastructure [cite: 47]
+    S2 --> S3: PowerMCP Integration 
+    S3 --> [*]: Sustainable Transition [cite: 9]
 ```
 
 ---
 
-### <font face="serif">🛠️ Technological Arsenal & Competencies</font>
+### <font face="serif">🛠️ Technical Ecosystem & Mastery</font>
 
-| **⚡ Power Systems** | **🧠 AI & Intelligence** | **📊 Strategy & Economics** |
+| ⚡ Power Systems [cite: 26, 27] | 🧠 AI & Data Intelligence [cite: 25, 37] | 📊 Strategy & Economics [cite: 11, 33, 40] |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-PowerWorld-ff4500" /> [cite: 26] | <img src="https://img.shields.io/badge/-PyTorch-ee4c2c" /> [cite: 25] | <img src="https://img.shields.io/badge/-Techno--Economic-blue" /> [cite: 11] |
-| <img src="https://img.shields.io/badge/-MATLAB_Simulink-0076a8" /> [cite: 25] | <img src="https://img.shields.io/badge/-Python-3776ab" /> [cite: 25] | <img src="https://img.shields.io/badge/-Game_Theory-2e8b57" /> [cite: 33] |
-| <img src="https://img.shields.io/badge/-PSCAD-228b22" /> [cite: 27] | <img src="https://img.shields.io/badge/-R_Programming-276dc3" /> [cite: 25] | <img src="https://img.shields.io/badge/-Lifecycle_Costs-daa520" /> [cite: 48] |
-| <img src="https://img.shields.io/badge/-OpenDSS-006400" /> [cite: 91] | <img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /> [cite: 37] | <img src="https://img.shields.io/badge/-Stakeholder_Research-8a2be2" /> [cite: 30] |
+| <img src="https://img.shields.io/badge/-PowerWorld-orange" /> | <img src="https://img.shields.io/badge/-PyTorch_ML-ee4c2c" /> | <img src="https://img.shields.io/badge/-Techno--Economic_Analysis-blue" /> |
+| <img src="https://img.shields.io/badge/-MATLAB_Simulink-0076a8" /> | <img src="https://img.shields.io/badge/-Python_Data_Science-3776ab" /> | <img src="https://img.shields.io/badge/-Game_Theory_Strategy-2e8b57" /> |
+| <img src="https://img.shields.io/badge/-PSCAD_Simulation-228b22" /> | <img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /> | <img src="https://img.shields.io/badge/-Environmental_Management-blueviolet" /> |
 
 ---
 
-### <font face="serif">📊 Technical Impact Metrics</font>
+### <font face="serif">📊 Research Metrics & Global Contributions</font>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-### <font face="serif">📚 Global Academic Standing</font>
-* **Lead Researcher:** Conducting techno-economic optimization for the **Blue Line Energy Infrastructure** project at **IISc**[cite: 44, 45, 47].
-* **Open Source Contributor:** Collaborating with **Harvard SEAS** on **PowerMCP** for agent-driven modeling[cite: 52, 53, 54].
-* **Scientific Reviewer:** **Springer Nature** (Scientific Reports), **IEEE**, and **Frontiers**[cite: 96, 97, 98, 100].
-* **Certified Expertise:** Strategy from **IIM Ahmedabad** [cite: 33] and IoT from **IIT Bombay**[cite: 32].
+#### **Academic Service & Certifications**
+* **Scientific Reviewer:** Springer Nature, IEEE, Frontiers, and Taylor & Francis. [cite: 96, 97, 98, 100]
+* **Selected Training:** **IoT** (IIT Bombay) [cite: 32], **Strategy** (IIM Ahmedabad) [cite: 33], **Data Science** (IBM)[cite: 34].
+* **Impact:** Mentoring future leaders via **Student Energy**. [cite: 95]
 
 ---
 
@@ -68,3 +64,5 @@ gantt
   <a href="https://orcid.org/0009-0008-8205-5721"><b>ORCID</b></a> • 
   <a href="https://www.linkedin.com/in/burhan-abdullah-788501113"><b>LinkedIn</b></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
