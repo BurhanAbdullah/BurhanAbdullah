@@ -5,13 +5,13 @@
 **Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI+for+Energy+Systems+Architect;Techno-Economic+Policy+Strategist;Human-Centered+Decision+Support;Power+Systems+Resilience+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI+for+Energy+Systems+Architect;Techno-Economic+Policy+Strategist;Power+Systems+Resilience+Expert;Human-Centered+Decision+Support" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Collaborator-Harvard_SEAS-A51C30?style=for-the-badge&logo=harvard" />
-  <img src="https://img.shields.io/badge/Ph.D.-August_2025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ph.D.-EE_2025-gold?style=for-the-badge" />
 </p>
 
 ---
@@ -25,26 +25,7 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </p>
 
 <h4 align="center"><font face="serif">Research Domain Velocity</font></h4>
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 
-    'fontFamily': 'Times New Roman', 
-    'pieSectionTextSize': '0px',
-    'pie1': '#003366', 
-    'pie2': '#0078d4', 
-    'pie3': '#A51C30', 
-    'pie4': '#E67E22', 
-    'pie5': '#2E8B57',
-    'pieOuterStrokeWidth': '2px',
-    'pieOpacity': '0.9'
-}}}%%
-pie
-    "AI-Assisted Optimization" : 25
-    "Techno-Economic Analysis" : 25
-    "Grid Modernization" : 20
-    "Secure Infrastructure" : 15
-    "Multimodal ML" : 15
-```
+<img src="https://better-pro-readme-api.vercel.app/api/pie?title=Expertise+Velocity&data=AI_Optimization,Techno_Economics,Grid_Stability,Secure_Infr,Multimodal_ML&values=25,25,20,15,15&colors=003366,0078d4,A51C30,E67E22,2E8B57" width="350" />
 
 ---
 
@@ -70,7 +51,17 @@ pie
 
 ---
 
-### <font face="serif" size="5">📜 Prestigious Academic Certifications</font>
+### <font face="serif" size="5">📊 Live Technical Impact</font>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### <font face="serif" size="5">📜 Certifications & Heritage</font>
 
 <table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-spacing: 15px;">
   <tr>
@@ -83,9 +74,6 @@ pie
   </tr>
 </table>
 
----
-
-### <font face="serif" size="5">🎓 Institutional Heritage</font>
 <p align="center">
   <img src="https://img.shields.io/badge/Postdoc-IISc_Bengaluru-003366?style=flat-square" />
   <img src="https://img.shields.io/badge/Ph.D.-Sharda_University-002147?style=flat-square" />
