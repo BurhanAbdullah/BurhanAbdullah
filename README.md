@@ -19,7 +19,7 @@
 ### <font face="serif">🏛️ Research Architecture & Vision</font>
 
 <font face="serif">
-My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy. I focus on the techno-economic feasibility of renewable-rich infrastructure to support sustainable energy transitions.
+My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy.
 </font>
 
 ```mermaid
@@ -34,57 +34,40 @@ pie title <font face="serif">Domain Expertise & Research Focus</font>
 
 ---
 
-### <font face="serif">🛠️ Technological Ecosystem & Mastery</font>
+### <font face="serif">🛠️ Technical Ecosystem</font>
 
-<table align="center" style="width: 100%; text-align: center; border-collapse: collapse;">
-  <tr style="border-bottom: 2px solid #0078d4;">
-    <th>⚡ <font face="serif">Power Engineering</font></th>
-    <th>🧠 <font face="serif">AI & Intelligence</font></th>
-    <th>📊 <font face="serif">Strategy & Policy</font></th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-Power_Systems_Analysis-orange" /></td>
-    <td><img src="https://img.shields.io/badge/-Generative_AI_Foundations-ee4c2c" /></td>
-    <td><img src="https://img.shields.io/badge/-Techno--Economic_Analysis-blue" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-MATLAB_Simulink-0076a8" /></td>
-    <td><img src="https://img.shields.io/badge/-Python_IoT-3776ab" /></td>
-    <td><img src="https://img.shields.io/badge/-Strategy_%26_Game_Theory-2e8b57" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/-OpenDSS-006400" /></td>
-    <td><img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /></td>
-    <td><img src="https://img.shields.io/badge/-Lifecycle_Costs-purple" /></td>
-  </tr>
-</table>
-
----
-
-### <font face="serif">🚀 Project Portfolio & Open Source</font>
-
-* **[PowerMCP](https://github.com/Power-Agent/PowerMCP)**: Architecting agent-driven modeling with **Harvard SEAS**.
-* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid)**: High-assurance cryptographic grid communication.
-* **[PowerRAG](https://github.com/oceanbase/powerrag)**: Multi-modal retrieval for industrial energy data.
+| <font face="serif">⚡ **Power Engineering**</font> | <font face="serif">🧠 **AI & Intelligence**</font> | <font face="serif">📊 **Strategy & Policy**</font> |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-Power_Systems_Analysis-orange" /> | <img src="https://img.shields.io/badge/-Generative_AI-ee4c2c" /> | <img src="https://img.shields.io/badge/-Techno--Economics-blue" /> |
+| <img src="https://img.shields.io/badge/-Converter_Technologies-0076a8" /> | <img src="https://img.shields.io/badge/-ML_for_IoT-3776ab" /> | <img src="https://img.shields.io/badge/-Game_Theory-2e8b57" /> |
+| <img src="https://img.shields.io/badge/-Inverter_Modernization-006400" /> | <img src="https://img.shields.io/badge/-Energy_Forecasting-276dc3" /> | <img src="https://img.shields.io/badge/-Project_Management-purple" /> |
 
 ---
 
 ### <font face="serif">📜 Prestigious Certifications</font>
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
+<table align="center" style="width: 100%;">
   <tr>
-    <td style="padding: 10px;"><b>IIT Bombay</b>: Internet of Things & Machine Learning</td>
-    <td style="padding: 10px;"><b>IIM Ahmedabad</b>: Strategy & Game Theory</td>
+    <td><b>IIT Bombay</b>: Internet of Things & Machine Learning</td>
+    <td><b>IIM Ahmedabad</b>: Strategy & Game Theory</td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><b>McKinsey & Co.</b>: Forward Research Program</td>
-    <td style="padding: 10px;"><b>Johns Hopkins</b>: Big Data & AI Project Management</td>
+    <td><b>McKinsey & Co.</b>: Forward Research Program</td>
+    <td><b>Johns Hopkins</b>: Big Data & AI Project Management</td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><b>Rice University</b>: Risk Management & Finance</td>
-    <td style="padding: 10px;"><b>University at Buffalo</b>: Electric Power Systems</td>
+    <td><b>Rice University</b>: Risk Management & Finance</td>
+    <td><b>University at Buffalo</b>: Electric Power Systems</td>
   </tr>
 </table>
+
+---
+
+### <font face="serif">📊 Research Metrics & Activity</font>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
