@@ -24,11 +24,13 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </font>
 </p>
 
-<h4 align="center"><font face="serif">Domain Expertise Velocity (Based on Publications & Repositories)</font></h4>
+<h4 align="center"><font face="serif">Domain Velocity & Academic Credentials</font></h4>
 <img src="https://raw.githubusercontent.com/HussainArif/HussainArif/master/assets/rotating_gear.gif" width="100" />
 <br>
 <font face="serif" size="3">
-<b>Power Quality & Inverters</b> (Publications) | <b>Agentic AI</b> (PowerMCP) | <b>Grid Security</b> (Aegis-Grid) | <b>Techno-Economics</b> (IISc)
+<b>IIT Bombay</b> (IoT/ML) | <b>IIM Ahmedabad</b> (Strategy) | <b>McKinsey</b> (Forward) | <b>Johns Hopkins</b> (AI/Big Data)
+<br>
+<i>AI Optimization | Techno-Economics | Grid Security | Inverter Control</i>
 </font>
 
 ---
@@ -42,14 +44,14 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
     <th style="background-color: #2E8B57; color: white; padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Inverter Control</b><br>Stability & Quality Enhancement</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Agentic AI</b><br>LLM-Driven Grid Simulation</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Techno-Economics</b><br>Infrastructure Cost Optimization</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Inverter Control</b><br>Stability & Quality</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Agentic AI</b><br>PowerMCP Integration</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Techno-Economics</b><br>Cost-Benefit Analysis</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>PV Systems</b><br>AI-Assisted Optimization</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Cybersecurity</b><br>Cryptographic Grid Communication</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Strategic Policy</b><br>Game Theory & Decision Support</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>PV Systems</b><br>AI-Driven MPPT</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Grid Security</b><br>Aegis-Grid Cryptography</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Brand Management</b><br>Uni. of London</td>
   </tr>
 </table>
 
@@ -57,14 +59,22 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 
 ### <font face="serif" size="5">📜 Prestigious Academic Certifications</font>
 
-<table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-spacing: 15px;">
-  <tr>
-    <td align="center"><b>IIT Bombay</b><br>Internet of Things & ML</td>
-    <td align="center"><b>IIM Ahmedabad</b><br>Strategy & Game Theory</td>
+<table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-collapse: collapse;">
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 12px;"><b>IIT Bombay</b>: Internet of Things & Machine Learning</td>
+    <td style="padding: 12px;"><b>IIM Ahmedabad</b>: Strategy & Game Theory</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 12px;"><b>McKinsey & Co.</b>: Forward Research Program</td>
+    <td style="padding: 12px;"><b>Johns Hopkins</b>: Big Data & AI Management</td>
+  </tr>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 12px;"><b>Rice University</b>: Risk Management & Finance</td>
+    <td style="padding: 12px;"><b>IBM</b>: Professional Data Science</td>
   </tr>
   <tr>
-    <td align="center"><b>McKinsey & Co.</b><br>Forward Research Program</td>
-    <td align="center"><b>Johns Hopkins University</b><br>Big Data & AI Management</td>
+    <td style="padding: 12px;"><b>University of London</b>: Brand Management</td>
+    <td style="padding: 12px;"><b>Wharton Online</b>: Strategic Marketing</td>
   </tr>
 </table>
 
