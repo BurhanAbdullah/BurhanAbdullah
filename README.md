@@ -22,9 +22,11 @@
 My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy.
 </font>
 
+<h4 align="center"><font face="serif">Domain Expertise & Research Focus</font></h4>
+
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'pieSectionTextSize': '0px' }}}%%
-pie title <font face="serif">Domain Expertise & Research Focus</font>
+pie
     "AI-Assisted Optimization" : 25
     "Techno-Economic Analysis" : 25
     "Grid Modernization" : 20
