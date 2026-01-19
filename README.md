@@ -5,7 +5,7 @@
 **Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI+for+Energy+Systems+Architect;Techno-Economic+Policy+Strategist;Power+Systems+Resilience+Expert;Human-Centered+Decision+Support" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI+for+Energy+Systems+Architect;Inverter+Stability+%26+PV+Optimization;Agentic+Grid+Modeling+(PowerMCP);High-Assurance+Grid+Security+(Aegis)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,10 +24,12 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </font>
 </p>
 
-<h4 align="center"><font face="serif">Domain Expertise Velocity</font></h4>
-<img src="https://raw.githubusercontent.com/HussainArif/HussainArif/master/assets/rotating_gear.gif" width="120" />
+<h4 align="center"><font face="serif">Domain Expertise Velocity (Based on Publications & Repositories)</font></h4>
+<img src="https://raw.githubusercontent.com/HussainArif/HussainArif/master/assets/rotating_gear.gif" width="100" />
 <br>
-<font face="serif" size="3"><i>AI Optimization | Techno-Economics | Grid Stability | Infrastructure</i></font>
+<font face="serif" size="3">
+<b>Power Quality & Inverters</b> (Publications) | <b>Agentic AI</b> (PowerMCP) | <b>Grid Security</b> (Aegis-Grid) | <b>Techno-Economics</b> (IISc)
+</font>
 
 ---
 
@@ -40,14 +42,14 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
     <th style="background-color: #2E8B57; color: white; padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Power Systems Analysis</b><br>Grid Stability & Renewables</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Generative AI</b><br>Agentic LLM Frameworks</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Techno-Economics</b><br>Infrastructure Modeling</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Inverter Control</b><br>Stability & Quality Enhancement</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Agentic AI</b><br>LLM-Driven Grid Simulation</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Techno-Economics</b><br>Infrastructure Cost Optimization</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Converter Systems</b><br>Inverter Modernization</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Machine Learning</b><br>IoT Data Forecasting</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Game Theory</b><br>Strategic Optimization</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>PV Systems</b><br>AI-Assisted Optimization</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Cybersecurity</b><br>Cryptographic Grid Communication</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Strategic Policy</b><br>Game Theory & Decision Support</td>
   </tr>
 </table>
 
