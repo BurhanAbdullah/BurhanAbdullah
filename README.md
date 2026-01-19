@@ -24,8 +24,11 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </font>
 </p>
 
-<h4 align="center"><font face="serif">Research Domain Velocity</font></h4>
-<img src="https://better-pro-readme-api.vercel.app/api/pie?title=Expertise+Velocity&data=AI_Optimization,Techno_Economics,Grid_Stability,Secure_Infr,Multimodal_ML&values=25,25,20,15,15&colors=003366,0078d4,A51C30,E67E22,2E8B57" width="350" />
+<h4 align="center"><font face="serif">Expertise Velocity Index</font></h4>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-Icons/master/Charts/PieChart.gif" width="200" />
+<br>
+<font face="serif" size="2"><i>Dynamic Domain Weighting: AI (25%) | Techno-Econ (25%) | Grid (20%) | Infrastructure (15%) | ML (15%)</i></font>
 
 ---
 
@@ -51,29 +54,14 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 
 ---
 
-### <font face="serif" size="5">📊 Live Technical Impact</font>
+### <font face="serif" size="5">📊 Live Impact Metrics</font>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### <font face="serif" size="5">📜 Certifications & Heritage</font>
-
-<table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-spacing: 15px;">
-  <tr>
-    <td align="center"><b>IIT Bombay</b><br>Internet of Things & ML</td>
-    <td align="center"><b>IIM Ahmedabad</b><br>Strategy & Game Theory</td>
-  </tr>
-  <tr>
-    <td align="center"><b>McKinsey & Co.</b><br>Forward Research Program</td>
-    <td align="center"><b>Johns Hopkins University</b><br>Big Data & AI Management</td>
-  </tr>
-</table>
-
+### <font face="serif" size="5">🎓 Institutional Heritage</font>
 <p align="center">
   <img src="https://img.shields.io/badge/Postdoc-IISc_Bengaluru-003366?style=flat-square" />
   <img src="https://img.shields.io/badge/Ph.D.-Sharda_University-002147?style=flat-square" />
