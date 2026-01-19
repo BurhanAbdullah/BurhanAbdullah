@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Collaborator-Harvard_SEAS-A51C30?style=for-the-badge&logo=harvard" />
-  <img src="https://img.shields.io/badge/Ph.D.-EE_2025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ph.D.-August_2025-gold?style=for-the-badge" />
 </p>
 
 ---
@@ -24,10 +24,20 @@ My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Po
 </font>
 </p>
 
-<h4 align="center"><font face="serif">Domain Expertise & Research Focus</font></h4>
+<h4 align="center"><font face="serif">Research Domain Velocity</font></h4>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'pieSectionTextSize': '0px' }}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 
+    'fontFamily': 'Times New Roman', 
+    'pieSectionTextSize': '0px',
+    'pie1': '#003366', 
+    'pie2': '#0078d4', 
+    'pie3': '#A51C30', 
+    'pie4': '#E67E22', 
+    'pie5': '#2E8B57',
+    'pieOuterStrokeWidth': '2px',
+    'pieOpacity': '0.9'
+}}}%%
 pie
     "AI-Assisted Optimization" : 25
     "Techno-Economic Analysis" : 25
@@ -42,9 +52,9 @@ pie
 
 <table align="center" style="width: 100%; border-collapse: collapse; font-family: 'Times New Roman', serif; text-align: center;">
   <tr>
-    <th style="background-color: #E67E22; color: white; padding: 15px; font-size: 20px;">⚡ Power Engineering</th>
-    <th style="background-color: #C0392B; color: white; padding: 15px; font-size: 20px;">🧠 AI & Intelligence</th>
-    <th style="background-color: #2980B9; color: white; padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
+    <th style="background-color: #003366; color: white; padding: 15px; font-size: 20px;">⚡ Power Engineering</th>
+    <th style="background-color: #A51C30; color: white; padding: 15px; font-size: 20px;">🧠 AI & Intelligence</th>
+    <th style="background-color: #2E8B57; color: white; padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
   </tr>
   <tr style="font-size: 16px;">
     <td style="padding: 15px; border: 1px solid #ddd;"><b>Power Systems Analysis</b><br>Grid Stability & Renewables</td>
@@ -55,11 +65,6 @@ pie
     <td style="padding: 15px; border: 1px solid #ddd;"><b>Converter Systems</b><br>Inverter Modernization</td>
     <td style="padding: 15px; border: 1px solid #ddd;"><b>Machine Learning</b><br>IoT Data Forecasting</td>
     <td style="padding: 15px; border: 1px solid #ddd;"><b>Game Theory</b><br>Strategic Optimization</td>
-  </tr>
-  <tr style="font-size: 16px;">
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Industrial Software</b><br>PowerWorld & PSCAD</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Big Data</b><br>Hadoop & Scalable ML</td>
-    <td style="padding: 15px; border: 1px solid #ddd;"><b>Project Management</b><br>Technical Policy Planning</td>
   </tr>
 </table>
 
