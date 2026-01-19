@@ -2,9 +2,9 @@
 
 # <font face="serif" color="#0078d4">⚡ Burhan U Din Abdullah, Ph.D.</font>
 
-**Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru** [cite: 44, 45, 46]
+**Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru**
 
-<font face="serif"><i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font> [cite: 7, 9]
+<font face="serif"><i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
@@ -19,64 +19,79 @@
 ### <font face="serif">🏛️ Research Architecture & Career Flow</font>
 
 <font face="serif">
-My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy. [cite: 8, 14, 21]
+My research integrates <b>Multimodal Machine Learning</b> with <b>Low-Inertia Power Systems</b> to create evidence-based decision support for global energy policy.
 </font>
 
 ```mermaid
-stateDiagram-v2
-    direction LR
-    state "PhD: AI Optimization" as S1
-    state "Postdoc: Techno-Economics" as S2
-    state "Harvard: Agentic Systems" as S3
-    
-    [*] --> S1: Solar PV Focus
-    S1 --> S2: Blue Line Infrastructure
-    S2 --> S3: PowerMCP Integration
-    S3 --> [*]: Global Energy Transition
+pie title Domain Expertise & Focus
+    "AI-Assisted Optimization" : 25
+    "Techno-Economic Analysis" : 25
+    "Grid Modernization" : 20
+    "Secure Infrastructure" : 15
+    "Multimodal ML" : 15
 ```
 
 ---
 
-### <font face="serif">🛠️ Technological Ecosystem</font>
+### <font face="serif">🛠️ Technological Ecosystem & Verified Mastery</font>
 
-| <font face="serif">⚡ **Power Engineering**</font> | <font face="serif">🧠 **AI & Intelligence**</font> | <font face="serif">📊 **Strategy & Policy**</font> |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-Power_Systems_Analysis-orange" /> | <img src="https://img.shields.io/badge/-Generative_AI_Foundations-ee4c2c" /> | <img src="https://img.shields.io/badge/-Techno--Economic_Analysis-blue" /> |
-| <img src="https://img.shields.io/badge/-Converter_Technologies-0076a8" /> | <img src="https://img.shields.io/badge/-Machine_Learning_for_IoT-3776ab" /> | <img src="https://img.shields.io/badge/-Strategy_%26_Game_Theory-2e8b57" /> |
-| <img src="https://img.shields.io/badge/-Grid_Modernization-006400" /> | <img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /> | <img src="https://img.shields.io/badge/-Project_Management-purple" /> |
+<table align="center" style="width: 100%; text-align: center;">
+  <tr>
+    <th width="33%">⚡ <font face="serif">Power Engineering</font></th>
+    <th width="33%">🧠 <font face="serif">AI & Intelligence</font></th>
+    <th width="33%">📊 <font face="serif">Strategy & Policy</font></th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-PowerWorld-orange" /></td>
+    <td><img src="https://img.shields.io/badge/-PyTorch_ML-ee4c2c" /></td>
+    <td><img src="https://img.shields.io/badge/-Techno--Economics-blue" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-MATLAB_Simulink-0076a8" /></td>
+    <td><img src="https://img.shields.io/badge/-Python_IoT-3776ab" /></td>
+    <td><img src="https://img.shields.io/badge/-Game_Theory-2e8b57" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-OpenDSS-006400" /></td>
+    <td><img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /></td>
+    <td><img src="https://img.shields.io/badge/-NVivo_Qualitative-purple" /></td>
+  </tr>
+</table>
 
 ---
 
-### <font face="serif">🚀 Leading Research Repositories</font>
+### <font face="serif">🚀 Project Portfolio & Open Source</font>
 
-* **[PowerMCP](https://github.com/Power-Agent/PowerMCP)** [cite: 52, 91]
-  *Architecting agent-driven modeling for intelligent power systems in collaboration with **Harvard SEAS**. [cite: 52, 53]*
-* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid)**
-  *Developing cryptographic communication frameworks for high-assurance power system operation. [cite: 78]*
-* **[PowerRAG](https://github.com/oceanbase/powerrag)**
-  *Optimizing multi-modal RAG for industrial-scale energy infrastructure datasets.*
+* **[PowerMCP](https://github.com/Power-Agent/PowerMCP):** Architecting agent-driven modeling with **Harvard SEAS**.
+* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid):** High-assurance cryptographic grid communication.
+* **[PowerRAG](https://github.com/oceanbase/powerrag):** Multi-modal retrieval for industrial energy data.
 
 ---
 
-### <font face="serif">📊 Technical Impact & Consistency</font>
+### <font face="serif">📜 Prestigious Certifications</font>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center" style="width: 100%;">
+  <tr>
+    <td><b>IIT Bombay</b>: Internet of Things & Machine Learning</td>
+    <td><b>IIM Ahmedabad</b>: Strategy & Game Theory</td>
+  </tr>
+  <tr>
+    <td><b>McKinsey & Co.</b>: Forward Research Program</td>
+    <td><b>Johns Hopkins</b>: Big Data & AI Project Management</td>
+  </tr>
+  <tr>
+    <td><b>Rice University</b>: Risk Management & Finance</td>
+    <td><b>University at Buffalo</b>: Electric Power Systems</td>
+  </tr>
+</table>
+
+---
+
+### <font face="serif">📊 Technical Impact & Continuity</font>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
 </p>
-
----
-
-### <font face="serif">📜 Prestigious Credentials</font>
-
-* **IoT & Machine Learning** | Indian Institute of Technology (IIT), Bombay [cite: 32]
-* **Strategy & Game Theory** | Indian Institute of Management (IIM), Ahmedabad [cite: 33]
-* **Forward Research Program** | McKinsey & Company
-* **Big Data & AI Project Management** | Johns Hopkins University
-* **Global Financial Markets** | Rice University [cite: 39]
-* **Electric Power Systems** | University at Buffalo & SUNY [cite: 35]
 
 ---
 
