@@ -4,12 +4,14 @@
 
 **Postdoctoral Researcher at the Indian Institute of Science (IISc), Bengaluru**
 
-<font face="serif" size="4"><i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=AI+for+Energy+Systems+Architect;Techno-Economic+Policy+Strategist;Human-Centered+Decision+Support;Power+Systems+Resilience+Expert" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Collaborator-Harvard_SEAS-A51C30?style=for-the-badge&logo=harvard" />
-  <img src="https://img.shields.io/badge/Ph.D.-August_2025-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ph.D.-EE_2025-gold?style=for-the-badge" />
 </p>
 
 ---
@@ -38,26 +40,26 @@ pie
 
 ### <font face="serif" size="5">🛠️ Technical Ecosystem</font>
 
-<table align="center" style="width: 100%; border-collapse: collapse; font-family: 'Times New Roman', serif;">
-  <tr style="background-color: #f8f9fa;">
-    <th style="padding: 15px; font-size: 20px;">⚡ Power Engineering</th>
-    <th style="padding: 15px; font-size: 20px;">🧠 AI & Intelligence</th>
-    <th style="padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
+<table align="center" style="width: 100%; border-collapse: collapse; font-family: 'Times New Roman', serif; text-align: center;">
+  <tr>
+    <th style="background-color: #E67E22; color: white; padding: 15px; font-size: 20px;">⚡ Power Engineering</th>
+    <th style="background-color: #C0392B; color: white; padding: 15px; font-size: 20px;">🧠 AI & Intelligence</th>
+    <th style="background-color: #2980B9; color: white; padding: 15px; font-size: 20px;">📊 Strategy & Policy</th>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 10px;"><b>Power Systems Analysis</b><br>Grid Stability & Renewables</td>
-    <td style="padding: 10px;"><b>Generative AI</b><br>Agentic LLM Frameworks</td>
-    <td style="padding: 10px;"><b>Techno-Economics</b><br>Infrastructure Modeling</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Power Systems Analysis</b><br>Grid Stability & Renewables</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Generative AI</b><br>Agentic LLM Frameworks</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Techno-Economics</b><br>Infrastructure Modeling</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 10px;"><b>Converter Systems</b><br>Inverter Modernization</td>
-    <td style="padding: 10px;"><b>Machine Learning</b><br>IoT Data Forecasting</td>
-    <td style="padding: 10px;"><b>Game Theory</b><br>Strategic Optimization</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Converter Systems</b><br>Inverter Modernization</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Machine Learning</b><br>IoT Data Forecasting</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Game Theory</b><br>Strategic Optimization</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td style="padding: 10px;"><b>Industrial Software</b><br>PowerWorld & PSCAD</td>
-    <td style="padding: 10px;"><b>Big Data</b><br>Hadoop & Scalable ML</td>
-    <td style="padding: 10px;"><b>Project Management</b><br>Technical Policy Planning</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Industrial Software</b><br>PowerWorld & PSCAD</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Big Data</b><br>Hadoop & Scalable ML</td>
+    <td style="padding: 15px; border: 1px solid #ddd;"><b>Project Management</b><br>Technical Policy Planning</td>
   </tr>
 </table>
 
@@ -67,16 +69,12 @@ pie
 
 <table align="center" style="width: 100%; font-family: 'Times New Roman', serif; border-spacing: 15px;">
   <tr>
-    <td><b>IIT Bombay</b><br>Internet of Things & ML</td>
-    <td><b>IIM Ahmedabad</b><br>Strategy & Game Theory</td>
+    <td align="center"><b>IIT Bombay</b><br>Internet of Things & ML</td>
+    <td align="center"><b>IIM Ahmedabad</b><br>Strategy & Game Theory</td>
   </tr>
   <tr>
-    <td><b>McKinsey & Co.</b><br>Forward Research Program</td>
-    <td><b>Johns Hopkins University</b><br>Big Data & AI Management</td>
-  </tr>
-  <tr>
-    <td><b>Rice University</b><br>Finance & Risk Management</td>
-    <td><b>University at Buffalo</b><br>Electric Power Systems</td>
+    <td align="center"><b>McKinsey & Co.</b><br>Forward Research Program</td>
+    <td align="center"><b>Johns Hopkins University</b><br>Big Data & AI Management</td>
   </tr>
 </table>
 
