@@ -2,58 +2,64 @@
 
 <p align="center">
   <font face="serif"><b>Postdoctoral Researcher | Indian Institute of Science (IISc), Bengaluru</b><br>
-  <i>Architecting the future of Intelligent, Autonomous, and Resilient Power Grids.</i></font>
+  <i>Translating Advanced AI and Techno-Economic Analysis into Resilient Global Energy Transitions.</i></font>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&label=RESEARCH+IMPACT&color=0078d4&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Harvard_SEAS-Collaborator-A51C30?style=for-the-badge&logo=harvard" />
-  <img src="https://img.shields.io/badge/IISc-Bengaluru-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/BurhanAbdullah?style=for-the-badge&color=ffd700" />
 </p>
 
 ---
 
-### <font face="serif">🏛️ Research Architecture: The Agentic Grid</font>
+### <font face="serif">🏛️ Research Architecture: The Intelligent Grid</font>
 <font face="serif">
-I bridge the gap between heavy-duty power system engineering and agentic AI. My research focuses on renewable-rich, low-inertia systems, translating advanced ML into economically viable infrastructure[cite: 8, 9, 13].
+My research bridges the intersection of **Artificial Intelligence**, **Power System Stability**, and **Human-Centered Policy**[cite: 7]. I focus on the techno-economic feasibility of renewable-rich, low-inertia infrastructure to support sustainable global energy transitions[cite: 8, 9].
 </font>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'primaryColor': '#ffcc00', 'pie1': '#ff5733', 'pie2': '#33ff57', 'pie3': '#3357ff', 'pie4': '#f333ff', 'pie5': '#33fff3'}}}%%
-pie title <font face="serif">Ph.D. & Postdoc Specializations</font>
-    "AI-Assisted Optimization" : 25
-    "Techno-Economic Analysis" : 25
-    "Grid Modernization" : 20
-    "Secure Infrastructure" : 15
-    "Multimodal ML" : 15
+%%{init: {'theme': 'base', 'themeVariables': { 'fontFamily': 'Times New Roman', 'primaryColor': '#0078d4'}}}%%
+gantt
+    title Research Expertise & Skill Depth
+    dateFormat  X
+    axisFormat %
+    section Core Research
+    AI-Assisted Optimization (Ph.D.)   : 0, 95
+    Techno-Economic Analysis (Postdoc) : 0, 90
+    Grid Modernization & Stability     : 0, 85
+    Multimodal Machine Learning        : 0, 80
+    Evidence-Based Policy Planning     : 0, 75
 ```
 
 ---
 
-### <font face="serif">🛠️ Technological Arsenal (Verified Competencies)</font>
+### <font face="serif">🛠️ Technological Arsenal & Competencies</font>
 
-| **⚡ Power Systems** | **🧠 AI & Data Science** | **📊 Strategy & Policy** |
+| **⚡ Power Systems** | **🧠 AI & Intelligence** | **📊 Strategy & Economics** |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/-PowerWorld-orange" /> | <img src="https://img.shields.io/badge/-PyTorch-red" /> | <img src="https://img.shields.io/badge/-Techno--Economic-blue" /> |
-| <img src="https://img.shields.io/badge/-MATLAB_Simulink-blue" /> | <img src="https://img.shields.io/badge/-Python-yellow" /> | <img src="https://img.shields.io/badge/-Game_Theory-green" /> |
-| <img src="https://img.shields.io/badge/-PSCAD-green" /> | <img src="https://img.shields.io/badge/-R_Programming-blue" /> | <img src="https://img.shields.io/badge/-NVivo_Qualitative-purple" /> |
-| <img src="https://img.shields.io/badge/-OpenDSS-brightgreen" /> | <img src="https://img.shields.io/badge/-Big_Data_Hadoop-black" /> | <img src="https://img.shields.io/badge/-Lifecycle_Costs-yellow" /> |
+| <img src="https://img.shields.io/badge/-PowerWorld-ff4500" /> [cite: 26] | <img src="https://img.shields.io/badge/-PyTorch-ee4c2c" /> [cite: 25] | <img src="https://img.shields.io/badge/-Techno--Economic-blue" /> [cite: 11] |
+| <img src="https://img.shields.io/badge/-MATLAB_Simulink-0076a8" /> [cite: 25] | <img src="https://img.shields.io/badge/-Python-3776ab" /> [cite: 25] | <img src="https://img.shields.io/badge/-Game_Theory-2e8b57" /> [cite: 33] |
+| <img src="https://img.shields.io/badge/-PSCAD-228b22" /> [cite: 27] | <img src="https://img.shields.io/badge/-R_Programming-276dc3" /> [cite: 25] | <img src="https://img.shields.io/badge/-Lifecycle_Costs-daa520" /> [cite: 48] |
+| <img src="https://img.shields.io/badge/-OpenDSS-006400" /> [cite: 91] | <img src="https://img.shields.io/badge/-Big_Data_Hadoop-000000" /> [cite: 37] | <img src="https://img.shields.io/badge/-Stakeholder_Research-8a2be2" /> [cite: 30] |
 
 ---
 
-### <font face="serif">🚀 Leading Projects</font>
-* **[PowerMCP](https://github.com/Power-Agent/PowerMCP):** Collaborating with **Harvard SEAS** to create agent-driven modeling for intelligent power systems[cite: 52, 91].
-* **Blue Line Infrastructure:** Leading techno-economic modeling and cost optimization at **IISc Bengaluru**[cite: 47, 48].
-* **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid):** Cryptographic frameworks for high-assurance power system communication.
-
----
-
-### <font face="serif">📊 Research Activity & Global Impact</font>
+### <font face="serif">📊 Technical Impact Metrics</font>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanAbdullah&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
-> **Note:** Peer reviewer for **Springer Nature**, **IEEE**, and **Frontiers**[cite: 96, 97, 98, 100]. Training from **IIM Ahmedabad**, **IIT Bombay**, and **Johns Hopkins**[cite: 32, 33, 37].
+---
+
+### <font face="serif">📚 Global Academic Standing</font>
+* **Lead Researcher:** Conducting techno-economic optimization for the **Blue Line Energy Infrastructure** project at **IISc**[cite: 44, 45, 47].
+* **Open Source Contributor:** Collaborating with **Harvard SEAS** on **PowerMCP** for agent-driven modeling[cite: 52, 53, 54].
+* **Scientific Reviewer:** **Springer Nature** (Scientific Reports), **IEEE**, and **Frontiers**[cite: 96, 97, 98, 100].
+* **Certified Expertise:** Strategy from **IIM Ahmedabad** [cite: 33] and IoT from **IIT Bombay**[cite: 32].
 
 ---
 
