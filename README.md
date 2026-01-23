@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=45&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=DR.+BURHAN+U+DIN+ABDULLAH" alt="Name" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live_Research_Mode-red?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live_Research_Mode-Blue?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-IISc_Bengaluru-black?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
