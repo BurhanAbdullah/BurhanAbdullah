@@ -1,0 +1,24 @@
+name: Update Research Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates every midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch Scholar Publications
+        uses: g-scholar-feed/g-scholar-action@v1.0
+        with:
+          user_id: YOUR_SCHOLAR_ID_HERE # Replace with your ID from your Scholar URL
+          max_publications: 5
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update Latest Publications" || exit 0
+          git push
