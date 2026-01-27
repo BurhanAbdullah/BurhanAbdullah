@@ -1,66 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=45&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=DR.+BURHAN+U+DIN+ABDULLAH" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=500&color=FF0000&center=true&vCenter=true&width=900&lines=DR.+BURHAN+U+DIN+ABDULLAH;AI+%26+POWER+SYSTEMS+ARCHITECT" alt="Name" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live_Research_Mode-Blue?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-IISc_Bengaluru-black?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Live_Research_Mode-FF0000?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-IISc_Bengaluru-000000?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-**Postdoctoral Researcher | AI & Power Systems Architect | Ph.D. Electrical Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D32F2F&center=true&vCenter=true&width=800&lines=Postdoctoral+Researcher+@+IISc;Agentic+AI+Architectures;Low-Inertia+Grid+Dynamics;Multimodal+ML+for+Energy+Policy" alt="Research Typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D32F2F&center=true&vCenter=true&width=600&lines=Multimodal+Machine+Learning;Low-Inertia+Power+Systems;Agentic+AI+Architectures;Global+Energy+Policy+Decision+Support" alt="Research Typing" />
+---
+
+### 🌐 CONNECT & COLLABORATE
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+<a href="mailto:your-email@iisc.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://burhanabdullah.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 ADVANCED TECH STACK (GLOW)
+
+| ARCHITECTURE | INTELLIGENCE | INFRASTRUCTURE |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=matlab,py,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" /> |
+| **Grid Stability & Control** | **LLMs & RAG (PowerRAG)** | **Edge & Cloud Compute** |
 
 ---
 
 ### 🏛️ DYNAMIC RESEARCH VISION
 <p align="center">
   <a href="https://burhanabdullah.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=INTEGRATING%20ML%20WITH%20GRID%20DYNAMICS&fontSize=25&fontColor=FF0000&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FF0000,000000&height=150&section=header&text=INTEGRATING%20ML%20WITH%20GRID%20DYNAMICS&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
   </a>
 </p>
 
 ---
 
-### 🛠️ LIVE TECHNICAL ECOSYSTEM (SYMMETRIC)
-
-| ⚡ POWER ENGINEERING | 🧠 AI & INTELLIGENCE | 📊 STRATEGY & POLICY |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Inverter_Control-FF0000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Techno--Economics-333333?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/Grid_Stability-FF0000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/PowerRAG-000000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Game_Theory-333333?style=for-the-badge" /> |
-| <img src="https://img.shields.io/badge/AI--MPPT-FF0000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Aegis--Crypto-000000?style=for-the-badge" /> | <img src="https://img.shields.io/badge/Brand_Mgmt-333333?style=for-the-badge" /> |
-
----
-
-### 📊 REAL-TIME CORE METRICS
+### 📊 ANALYTICS & GRID IMPACT
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=highcontrast&hide_border=false&title_color=FF0000&icon_color=FF0000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=highcontrast&title_color=FF0000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=blood&hide_border=false&title_color=FF0000&icon_color=FF0000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=blood&title_color=FF0000" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=highcontrast&stroke=FF0000&fire=FF0000" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanAbdullah&theme=blood&stroke=FF0000&fire=FF0000" width="100%" />
 </p>
 
 ---
 
-### 📜 ACADEMIC HERITAGE (GLOBAL)
+### 📜 ACADEMIC LINEAGE
 <p align="center">
-  <img src="https://img.shields.io/badge/IIT_Bombay-IoT_%26_ML-red?style=flat-square&logo=intel" />
-  <img src="https://img.shields.io/badge/IIM_Ahmedabad-Strategy-black?style=flat-square&logo=graphite" />
-  <img src="https://img.shields.io/badge/Johns_Hopkins-Big_Data_AI-red?style=flat-square&logo=dataiku" />
-  <img src="https://img.shields.io/badge/Wharton-Strategic_Marketing-black?style=flat-square&logo=google-analytics" />
+  <img src="https://img.shields.io/badge/IIT_BOMBAY-IoT_Mastery-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIM_AHMEDABAD-Strategic_Core-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JHU-Big_Data_AI-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WHARTON-Global_Strategy-000000?style=for-the-badge" />
 </p>
 
 ---
 
-### 📈 RECENT ACTIVITY
+### ⚡ LIVE CONTRIBUTION SNAKE
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurhanAbdullah&theme=highcontrast" width="100%" />
+  <img src="https://raw.githubusercontent.com/BurhanAbdullah/BurhanAbdullah/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&color=FF0000&style=plastic&label=RESEARCH+ACCESS+COUNT" />
+  <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&color=FF0000&style=for-the-badge&label=RESEARCH+ACCESS+COUNT" />
 </div>
 
 </div>
