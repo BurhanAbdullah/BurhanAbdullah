@@ -23,11 +23,41 @@ My research develops **Agentic AI** to act as **Synthetic Inertia**, providing *
 
 ## 🚀 MISSION CONTROL (HIGH-MOTION)
 
-| ⚡ POWER DYNAMICS | 🤖 AGENTIC AI | 📊 GLOBAL STRATEGY |
-|:--:|:--:|:--:|
-| ![Grid](https://media3.giphy.com/media/3o7TKMGpxx6QO1Xw8o/giphy.gif) | ![AI](https://media4.giphy.com/media/l41lTf68J8tXzWlbi/giphy.gif) | ![Strategy](https://media.giphy.com/media/uH9pX2yD108lG/giphy.gif) |
-| **Grid Stability** | **PowerRAG / LLMs** | **Techno-Economics** |
-| **Inverter Control** | **Multi-Agent Systems** | **Game Theory** |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡ POWER DYNAMICS  
+<img src="https://media3.giphy.com/media/3o7TKMGpxx6QO1Xw8o/giphy.gif" width="140"/>
+
+**Grid Stability**  
+**Inverter Control**
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AGENTIC AI  
+<img src="https://media4.giphy.com/media/l41lTf68J8tXzWlbi/giphy.gif" width="140"/>
+
+**PowerRAG / LLMs**  
+**Multi-Agent Systems**
+
+</td>
+<td align="center" width="33%">
+
+### 📊 GLOBAL STRATEGY  
+<img src="https://media.giphy.com/media/uH9pX2yD108lG/giphy.gif" width="140"/>
+
+**Techno-Economics**  
+**Game Theory**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
