@@ -10,56 +10,51 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8F00FF&height=200&section=header&text=INTELLIGENT%20ENERGY%20SYSTEMS&fontSize=40&fontColor=FFFFFF&animation=twinkling&desc=Bridging%20Neural%20Dynamics%20with%20Grid%20Stability&descSize=22" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,8F00FF&height=200&section=header&text=INTELLIGENT%20ENERGY%20SYSTEMS&fontSize=40&fontColor=FFFFFF&animation=twinkling&desc=Bridging%20Neural%20Dynamics%20with%20Grid%20Stability&descSize=22" />
 
 ---
 
-### 🏛️ RESEARCH OVERVIEW: THE STABILITY GAP
-In modern grids, renewable inverters lack the physical inertia of traditional turbines. My research develops **Agentic AI** to act as "Synthetic Inertia," providing sub-cycle stability to prevent grid collapse.
+## 🏛️ RESEARCH OVERVIEW: THE STABILITY GAP
 
-
+In modern grids, renewable inverters lack the physical inertia of traditional turbines.  
+My research develops **Agentic AI** to act as **Synthetic Inertia**, providing **sub-cycle grid stability** to prevent cascading failures and system collapse.
 
 ---
 
-### 🚀 MISSION CONTROL (HIGH-MOTION)
+## 🚀 MISSION CONTROL (HIGH-MOTION)
 
 | ⚡ POWER DYNAMICS | 🤖 AGENTIC AI | 📊 GLOBAL STRATEGY |
-| :---: | :---: | :---: |
-| <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXRrdHoxN2V2bmN6bmV6bmV6bmV6bmV6bmV6bmV6bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6QO1Xw8o/giphy.gif" width="120"> | <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXRrdHoxN2V2bmN6bmV6bmV6bmV6bmV6bmV6bmV6bmV6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/l41lTf68J8tXzWlbi/giphy.gif" width="120"> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRidnl0bmVqZ3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/uH9pX2yD108lG/giphy.gif" width="120"> |
+|:--:|:--:|:--:|
+| ![Grid](https://media3.giphy.com/media/3o7TKMGpxx6QO1Xw8o/giphy.gif) | ![AI](https://media4.giphy.com/media/l41lTf68J8tXzWlbi/giphy.gif) | ![Strategy](https://media.giphy.com/media/uH9pX2yD108lG/giphy.gif) |
 | **Grid Stability** | **PowerRAG / LLMs** | **Techno-Economics** |
 | **Inverter Control** | **Multi-Agent Systems** | **Game Theory** |
 
 ---
 
-### 💻 TECH UNIVERSE (GLOWING STACK)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,matlab,cpp,pytorch,tensorflow,fastapi,postgres,docker,aws,linux,git,github,vscode,pycharm&perline=7" />
-</p>
+## 💻 TECH UNIVERSE (GLOWING STACK)
+
+<img src="https://skillicons.dev/icons?i=py,matlab,cpp,pytorch,tensorflow,fastapi,postgres,docker,aws,linux,git,github,vscode,pycharm&perline=7" />
 
 ---
 
-### 🧬 THE CONTRIBUTION  (LIVE DNA)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BurhanAbdullah/BurhanAbdullah/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+## 🧬 THE CONTRIBUTION (LIVE DNA)
+
+<img src="https://raw.githubusercontent.com/BurhanAbdullah/BurhanAbdullah/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
-### 📊 GRID ANALYTICS (RADICAL NEON)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=radical&count_private=true&title_color=00FF00&icon_color=FF00FF&bg_color=000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=radical&title_color=00FF00&bg_color=000000" width="48%" />
-</p>
+## 📊 GRID ANALYTICS (RADICAL NEON)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&color=00FFFF&style=for-the-badge&label=RESEARCH_ACCESS" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=radical&count_private=true&title_color=00FF00&icon_color=FF00FF&bg_color=000000" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=radical&title_color=00FF00&bg_color=000000" />
 
-<p align="center">
-  <img src="https://forthebadge.com/images/featured/featured-built-with-science.svg" height="35"/>
-  <img src="https://forthebadge.com/images/featured/featured-intellectual-badass.svg" height="35"/>
-</p>
+---
+
+<img src="https://komarev.com/ghpvc/?username=BurhanAbdullah&color=00FFFF&style=for-the-badge&label=RESEARCH_ACCESS" />
+
+---
+
+<img height="35" src="https://forthebadge.com/images/featured/featured-built-with-science.svg"/>
+<img height="35" src="https://forthebadge.com/images/featured/featured-intellectual-badass.svg"/>
 
 </div>
