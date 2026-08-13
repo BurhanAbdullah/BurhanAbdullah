@@ -9,9 +9,6 @@
 [![Website](https://img.shields.io/badge/Portfolio-00BCD4?style=flat-square&logo=githubpages)](https://burhanabdullah.github.io/)
 </div>
 
-## ⚡ Mission
-I design and develop **Aegis-Grid** at the Indian Institute of Science (IISc). My work focuses on embedding autonomous AI agents and zero-trust cryptographic policies directly into grid communication layers to mitigate the modern **Inertia Crisis** ensuring sub-cycle, fail-secure responses when cyber threats meet physical dynamics.
-
 ---
 
 ## 📂 Core Ecosystem
