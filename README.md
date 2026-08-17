@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020913,50:041830,100:020913&height=180&section=header&text=Dr.%20Burhan%20Abdullah&fontSize=48&fontColor=E8F4F8&fontAlignY=40&animation=fadeIn&desc=Postdoctoral%20Researcher%20%C2%B7%20IISc%20Bengaluru&descSize=16&descAlignY=65&descColor=5b8fa8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020913,50:041830,100:020913&height=180&section=header&text=Dr.%20Burhan%20Abdullah&fontSize=48&fontColor=E8F4F8&fontAlignY=40&animation=fadeIn&desc=Postdoctoral%20Researcher&descSize=16&descAlignY=65&descColor=5b8fa8" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=4FC3F7&center=true&vCenter=true&width=800&lines=Agentic+AI+for+Cyber-Physical+Power+Infrastructure;Zero-Trust+%C2%B7+Fail-Secure+%C2%B7+Sub-Cycle+Response;Physics+is+the+root+of+trust)](https://git.io/typing-svg)
 
