@@ -1,34 +1,131 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020913,50:041830,100:020913&height=180&section=header&text=Dr.%20Burhan%20Abdullah&fontSize=48&fontColor=E8F4F8&fontAlignY=40&animation=fadeIn&desc=Postdoctoral%20Researcher&descSize=16&descAlignY=65&descColor=5b8fa8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=4FC3F7&center=true&vCenter=true&width=800&lines=Agentic+AI+for+Cyber-Physical+Power+Infrastructure;Zero-Trust+%C2%B7+Fail-Secure+%C2%B7+Sub-Cycle+Response;Physics+is+the+root+of+trust)](https://git.io/typing-svg)
+<!-- BURHAN ABDULLAH // NEOfetch-inspired profile -->
+<pre>
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                            │
+│   ██████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ██╗                     │
+│   ██╔══██╗██║   ██║██╔══██╗██║  ██║██╔══██╗████╗  ██║                     │
+│   ██████╔╝██║   ██║██████╔╝███████║███████║██╔██╗ ██║                     │
+│   ██╔══██╗██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╗██║                     │
+│   ██████╔╝╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚████║                     │
+│   ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                     │
+│                                                                            │
+│   DR. BURHAN ABDULLAH                                                     │
+│   Researcher · AI · Power Systems · Cyber-Physical Infrastructure          │
+│                                                                            │
+│   ┌─ SYSTEM ────────────────────────────────────────────────────────────┐  │
+│   │ Research      : Agentic AI for Cyber-Physical Power Systems         │  │
+│   │ Security      : Zero-Trust · Fail-Secure · Resilient OT            │  │
+│   │ Intelligence  : Multi-Agent AI · LLMs · MCP · Adaptive Control      │  │
+│   │ Power         : Smart Grids · Renewable Energy · Grid Dynamics      │  │
+│   │ Philosophy    : Physics is the root of trust                        │  │
+│   └──────────────────────────────────────────────────────────────────────┘  │
+│                                                                            │
+╰──────────────────────────────────────────────────────────────────────────────╯
+</pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/burhan-abdullah-788501113)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=wIvwAasAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=wIvwAasAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0009-0008-8205-5721)
-[![Website](https://img.shields.io/badge/Portfolio-00BCD4?style=flat-square&logo=githubpages)](https://burhanabdullah.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github)](https://burhanabdullah.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-BurhanAbdullah-181717?style=flat-square&logo=github)](https://github.com/BurhanAbdullah)
+
 </div>
 
 ---
 
-## 📂 Core Ecosystem
-*   **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid)** — Flagship framework for adaptive thresholding and entropy mirroring in wide-area grid traffic.
-*   **[PowerMCP](https://github.com/BurhanAbdullah/PowerMCP)** — Industrial Model Context Protocol (MCP) bridge linking LLM/AI agents directly to PowerWorld and OpenDSS execution environments.
-*   **[Aegis-Consensus-Lab](https://github.com/BurhanAbdullah/Aegis-Consensus-Lab)** — Adversarial testing environment for validating distributed consensus under extreme network partitions and physical disturbances.
+## `~/research`
 
----
+I work at the intersection of **artificial intelligence, power systems, and cyber-physical security**, developing systems that connect machine intelligence to physical constraints instead of treating the grid as a purely digital environment.
 
-## 🔬 Aegis Evolution
-| Phase | Milestone | Core Focus |
-| :--- | :--- | :--- |
-| **v1** | **Fail-Secure** | Implementation of deterministic safety fallbacks under communication failure. |
-| **v2** | **Adaptive** | Dynamic traffic thresholding conditioned on transient physical grid load. |
-| **v3** | **Agentic** | Decentralized, autonomous coordination using fog-of-war local execution logic. |
-| 🚀 **v4** | **Grid-Aware** | **Current Focus:** Direct integration of live physical constraints into agent decision trees. |
-| 🔘 **v5** | **Post-Crypto** | Quantum-resistant cryptographic primitives optimized for low-latency operational tech (OT). |
+```text
+┌─ CURRENT RESEARCH ─────────────────────────────────────────────────────────┐
+│                                                                            │
+│  ⚡ AI-native power-system monitoring                                      │
+│  🛡️  Cyber-resilient / fail-secure control                               │
+│  🤖 Multi-agent coordination and LLM-enabled engineering                  │
+│  🔌 Renewable-energy and hybrid power-system modelling                    │
+│  🧠 Physics-informed decision making                                      │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+
+## `~/projects`
+
+| Project | What it does |
+|---|---|
+| **[Aegis-Grid](https://github.com/BurhanAbdullah/Aegis-Grid)** | Adaptive, physics-aware cyber-physical grid monitoring and resilience research. |
+| **[PowerMCP](https://github.com/BurhanAbdullah/PowerMCP)** | MCP infrastructure connecting AI agents with power-system analysis workflows and engineering tools. |
+| **[Aegis-Consensus-Lab](https://github.com/BurhanAbdullah/Aegis-Consensus-Lab)** | Adversarial testbed for distributed consensus under communication failures and physical disturbances. |
+
+## `~/architecture`
+
+```text
+                         ┌───────────────────────┐
+                         │      AI AGENTS        │
+                         │  LLM · MCP · Planner  │
+                         └───────────┬───────────┘
+                                     │
+                              decisions / tools
+                                     │
+                 ┌───────────────────▼───────────────────┐
+                 │     CYBER-PHYSICAL INTELLIGENCE       │
+                 │  detection · inference · coordination │
+                 └───────────────────┬───────────────────┘
+                                     │
+                              physics constraints
+                                     │
+                 ┌───────────────────▼───────────────────┐
+                 │             POWER SYSTEM               │
+                 │   grid · DER · storage · protection   │
+                 └───────────────────────────────────────┘
+```
+
+## `~/aegis`
+
+```text
+v1  ── Fail-Secure     deterministic safety fallbacks
+v2  ── Adaptive        dynamic thresholds and context-aware detection
+v3  ── Agentic         decentralized autonomous coordination
+v4  ── Grid-Aware      physical constraints inside agent decisions
+v5  ── Post-Crypto     next-generation resilient OT security
+```
+
+## `~/toolkit`
+
+```text
+MATLAB / Simulink   Python   PyTorch   TensorFlow   MATPOWER
+PowerWorld          OpenDSS  GitHub    LaTeX        LLM / MCP
+```
+
+<div align="center">
+
+### `status --now`
+
+`BUILDING`  ·  `RESEARCHING`  ·  `MODELLING`  ·  `PUBLISHING`
+
+</div>
 
 ---
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=github_dark&count_private=true&title_color=FFB300&icon_color=FFC107&bg_color=040d18&border_color=0d2235&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=github_dark&title_color=FFB300&bg_color=040d18&border_color=0d2235&hide_border=true" />
+
+![Burhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurhanAbdullah&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanAbdullah&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│  "The safest AI for infrastructure is AI that understands     │
+│   the physics of what it is allowed to change."              │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
