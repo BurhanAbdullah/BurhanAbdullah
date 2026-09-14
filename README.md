@@ -24,10 +24,10 @@ I work at the intersection of power-system engineering, renewable-energy integra
 
 ### Selected work
 
-- **XMON-Grid / AEGIS-Grid** — resilient monitoring and cyber-physical power-system research
-- **Hybrid Renewable Energy Systems** — mathematical modelling and grid-forming control
-- **Solar–Rail Integration** — solarisation and energy modelling for metro systems
-- **Smart Energy Systems** — forecasting, optimization, storage and intelligent EMS
+- **XMON-Grid / AEGIS-Grid** : resilient monitoring and cyber-physical power-system research
+- **Hybrid Renewable Energy Systems** : mathematical modelling and grid-forming control
+- **Solar–Rail Integration** " solarisation and energy modelling for metro systems
+- **Smart Energy Systems** : forecasting, optimization, storage and intelligent EMS
 
 ### Open source
 
